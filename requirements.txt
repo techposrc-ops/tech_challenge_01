@@ -1,0 +1,11 @@
+numpy==2.3.0
+pandas==2.3.0
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.4.2
+statsmodels
+xgboost
+imbalanced-learn
+watermark
+jupyter
+notebook

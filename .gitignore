@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+src/__init__
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data and generated artifacts
+
+
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
